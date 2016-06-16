@@ -13,6 +13,9 @@
     "focus": true,
     "resizable": true
   },
+  "webkit": {
+    "page-cache": true
+  },
   "dependencies": {
     "chokidar": "1.0.5",
     "node-static": "0.7.6",
